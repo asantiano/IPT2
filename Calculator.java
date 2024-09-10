@@ -6,10 +6,13 @@ public class Calculator{
 
         int sum = a + b;
         int subtract = a - b;
+        int multiply = a * b;
 
 
         System.out.println("Addition: " + sum);
         System.out.println("Subtraction: " + subtract);
+        System.out.println("Multiplication: " + multiply);
+        
 
 
     }
